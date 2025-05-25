@@ -1,6 +1,18 @@
-Using the air_quality_dataset , we first explored the data. 
-performed the Data visualization part: 
--Univariate Analysis
--Bivariate Analysis
--Multivariate Analysis
-And, in the final step , encoded the categorical variables.
+## Project Description
+
+Using the **air_quality_dataset**, we performed the following steps:
+
+- **Exploratory Data Analysis (EDA)**  
+  Explored the data to understand its structure and contents.
+
+- **Data Visualization**
+  - **Univariate Analysis**  
+    Visualized individual variables to examine distributions and detect outliers.
+  - **Bivariate Analysis**  
+    Analyzed relationships between two variables.
+  - **Multivariate Analysis**  
+    Explored interactions between three or more variables.
+
+- **Data Preprocessing**
+  - Encoded the categorical variables for machine learning readiness.
+
